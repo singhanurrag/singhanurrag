@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anurag</h1>
-<h3 align="center">I'm a Software Developer from India</h3>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anurag</h1>
+<h3 align="center">I'm a front-end Web Developer</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -14,8 +14,8 @@
 
 - 👨‍💻 All of my projects are available in my **repos**
 
-- 📫 How to reach me **bhadauriaanurag2000@gmail.com**
- 
+- 📫 Reach me at **bhadauriaanurag2000@gmail.com**
+
 
 ## 🚀 Languages and Tools:
 
@@ -57,12 +57,21 @@
 <br/>
 <br/>
 
+## My Coding Profiles:
+<a href="https://leetcode.com/_anuraag_" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/> </a> &nbsp;&nbsp;
+<a href="https://codechef.com/users/Anurag231" target="_blank"><img src="https://img.icons8.com/ios/50/000000/codechef.png"/></a> &nbsp;&nbsp;
+<a href="https://www.hackerrank.com/A_1901640100066" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
+
+
+<br/>
+<br/>
+
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/anuragsbhadauria/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/anurrag_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_anuraag_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/anuragsbhadauria/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/anurrag_" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/_anuraag_/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  
 
 </p>
