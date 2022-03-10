@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Anuraagsinghbhadauria/github-readme-activity-graph"><img alt="Anurag's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anuraagsinghbhadauria&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/singhanurrag/github-readme-activity-graph"><img alt="Anurag's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=singhanurrag&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
