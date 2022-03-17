@@ -1,5 +1,5 @@
-<p href="#" align="center"><img width="35%" height="auto" src="https://i.pinimg.com/originals/b3/b4/64/b3b464fd6a6000cd792e3fcce309a9c8.png"/></p>
-<!--<p>another image link:https://i.imgur.com/iXuL1HG.png  height='175px' 2nd image:"https://wahdii.com/wp-content/uploads/2021/02/71cdbbffdfa1972b242e628009a60413-1.png"</p>-->
+<p href="#" align="center"><img width="35%" height="auto" src="https://wahdii.com/wp-content/uploads/2021/02/71cdbbffdfa1972b242e628009a60413-1.png"/></p>
+<!--<p>another image link:https://i.imgur.com/iXuL1HG.png  height='175px' 2nd image:""</p>-->
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anurag</h1>
 <h3 align="center">I'm a front-end Web Developer</h3>
