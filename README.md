@@ -80,8 +80,9 @@
 
 </p>
 
-## ❤ Views and Followers
+
+## ❤  Profile Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=singhanurrag">
 </a>
-<a href="https://github.com/singhanurrag?tab=followers"><img src="https://img.shields.io/github/followers/singhanurrag?label=Followers&style=social" alt="GitHub Badge"></a>
+<!--<a href="https://github.com/singhanurrag?tab=followers"><img src="https://img.shields.io/github/followers/singhanurrag?label=Followers&style=social" alt="GitHub Badge"></a>-->
