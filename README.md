@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available in my <a href="https://anurag-theta.vercel.app/" target="_blank">Portfolio</a>
+- 👨‍💻 All of my projects are available in my **<a href="https://anurag-theta.vercel.app/" target="_blank">Portfolio</a>**
 
 - 📫 Reach me at **bhadauriaanurag2000@gmail.com**
 
