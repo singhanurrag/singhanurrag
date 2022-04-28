@@ -75,7 +75,7 @@
 <p align="left">
 
 <!--<a href = "https://www.linkedin.com/in/anuragsbhadauria/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>-->
-<a href = "https://twitter.com/anurrag_" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!--<a href = "https://twitter.com/anurrag_" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>-->
 <a href = "https://www.instagram.com/_anuraag_/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  
 
