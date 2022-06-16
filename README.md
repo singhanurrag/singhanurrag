@@ -2,7 +2,7 @@
 <!--<p>another image link:https://i.imgur.com/iXuL1HG.png  height='175px' 2nd image:""</p>-->
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Anurag</h1>
-<h3 align="center">I'm a front-end Web Developer</h3>
+<h3 align="center">I'm a Programmer</h3>
 
 
 ## 🙋‍♂️ About Me
