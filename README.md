@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently focusing on **Competitive Coding**
+- 🔭 I’m currently focusing on **Web Development**
 
 - 🌱 I’m currently learning **React js**
 
