@@ -1,14 +1,14 @@
-<p href="#" align="center"><img width="35%" height="auto" src="https://wahdii.com/wp-content/uploads/2021/02/71cdbbffdfa1972b242e628009a60413-1.png"/></p>
+<!--<p href="#" align="center"><img width="35%" height="auto" src="https://wahdii.com/wp-content/uploads/2021/02/71cdbbffdfa1972b242e628009a60413-1.png"/></p>-->
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Anurag</h1>
-<h3 align="center">I'm a Programmer</h3>
+<h3 align="center">I'm a Big data engineer</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently focusing on **Web Development**
+- 🔭 I’m currently focusing on **Big data Technologies**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Data engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
