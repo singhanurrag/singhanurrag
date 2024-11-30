@@ -1,6 +1,6 @@
 <!--<p href="#" align="center"><img width="35%" height="auto" src="https://wahdii.com/wp-content/uploads/2021/02/71cdbbffdfa1972b242e628009a60413-1.png"/></p>-->
 
-<h2 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h2><h1><br> I'm Anurag</h1>
+<h2 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"><h1><br> I'm Anurag</h1></h2>
 <h3 align="center">I'm a Big data engineer</h3>
 
 
